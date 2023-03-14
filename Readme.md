@@ -6,3 +6,7 @@
 -->
 
 ## Complete the "main.py"
+
+
+ ## I enter an input to have the user enter.
+ ## First I check, if the first value is an alphabet letter then if it is, move on to the next if statement. I then check if the length of the email input is greater than 5 and less than 30. I then go to another if statement and use the find function to see if we find '@' in the string. Lastly, I use the in function to see if there is a '.' in the string input. 
